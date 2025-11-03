@@ -1,9 +1,4 @@
-Perfetto Miky, ecco la versione aggiornata e coerente del tuo **README** per il laboratorio **Modulo 2 – Lezione 6**, nello stesso stile di quello precedente (chiaro, professionale e “Epicode Master style”).
-Include e spiega gli **ultimi esercizi svolti**: Copy by Value/Ref/Out, Stack & Heap, Enum, Switch, Namespace e Array manipulation.
-
----
-
-# **Basic Unity 3D Practice – Epicode Master — W3-D2-Lab**
+# **Basic Unity 3D Practice – Epicode Master — W3-D4-Lab**
 
 (**Funzioni avanzate, Reference Types, Enum, Namespace, Array e Problem Solving**)
 
